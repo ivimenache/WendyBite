@@ -1,0 +1,30 @@
+body, html {
+	height: 50%;
+	width: 50%;
+	width: 760px;
+  	margin:0 auto;
+}
+
+body {
+	background-color: #484848;
+	color: white;
+}
+
+header {
+	text-align: center;
+}
+
+footer {
+	text-align: center;
+}
+
+
+.resume {
+	color: #90EE90;
+	font-weight: bold;
+}
+
+.social {
+	color: #90EE90;
+	font-weight: bold;
+}
